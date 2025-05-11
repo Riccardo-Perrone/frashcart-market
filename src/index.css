@@ -1,0 +1,16 @@
+:root {
+  --brown: #5e2e23;
+  --beige: #f1e3da;
+  --highlighted: rgb(128 0 0 / 13%);
+  --highlighted-secondary: rgb(218 185 177);
+}
+
+body {
+  margin: 0;
+  background-color: var(--beige) !important;
+}
+
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root.Mui-selected,
+.css-16ac5r2-MuiButtonBase-root-MuiListItemButton-root.Mui-selected:hover {
+  background-color: var(--highlighted) !important;
+}
