@@ -1,12 +1,12 @@
 ## Start project
 
-# Import libraries
+### Import libraries
 
 ```
 npm install
 ```
 
-# Run
+### Run
 
 ```
 npm run dev
